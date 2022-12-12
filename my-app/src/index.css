@@ -1,0 +1,21 @@
+
+
+
+.input-tape{
+  height: 30px;
+  width: 50%;
+  box-shadow: 10px, 10px, 10px, 10px;
+}
+
+
+.btn-app{
+  background-color: brown;
+  margin-left: 10px;
+  height: 40px;
+  width: 100px;
+  color: #fff;
+}
+
+.btn-app:hover{
+  background-color: blue;
+}

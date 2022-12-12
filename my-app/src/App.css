@@ -1,0 +1,20 @@
+.Navbar{
+flex-direction: none;
+text-decoration: none;
+  
+}
+
+.Navbar>ul{
+  display: flex;
+  justify-content: right;
+  
+  list-style: none;
+  text-transform: none;
+
+
+}
+.Navbar>ul>li{
+  margin: 10px;
+
+  
+}
